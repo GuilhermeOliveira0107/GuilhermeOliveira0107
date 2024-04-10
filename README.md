@@ -1,7 +1,5 @@
-### olá! Eu sou o Guilherme Oliveira 
+### Olá! Eu sou o Guilherme Oliveira 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-josé-cardozo-de-oliveira-aba667285/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guuih_joseh/)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeOliveira0107&show_icons=true&theme=dracula)
 
